@@ -1,0 +1,191 @@
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı.csprojAssemblyReference.cache
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\ViewModels\ValidationResourceDictionary.baml
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\MainWindow.g.cs
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\Views\KategoriKaydıPage.g.cs
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\Views\KayanYazıPage.g.cs
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\Views\ListelePage.g.cs
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\Views\MetinKaydıPage.g.cs
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\App.g.cs
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı_Content.g.cs
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.cache
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.lref
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\bin\Debug\Db.mdf
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\bin\Debug\Db_log.ldf
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\bin\Debug\KayanYazı.exe.config
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\bin\Debug\KayanYazı.exe
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\bin\Debug\KayanYazı.pdb
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\bin\Debug\EntityFramework.dll
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\bin\Debug\EntityFramework.xml
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\MainWindow.baml
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\Views\KategoriKaydıPage.baml
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\Views\KayanYazıPage.baml
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\Views\ListelePage.baml
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\Views\MetinKaydıPage.baml
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı.g.resources
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı.Properties.Resources.resources
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı.csproj.GenerateResource.cache
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı.csproj.CoreCompileInputs.cache
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı.csproj.CopyComplete
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı.exe
+C:\Users\Erman\source\repos\KayanYazı\KayanYazı\obj\Debug\KayanYazı.pdb
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\bin\Debug\Db.mdf
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\bin\Debug\Db_log.ldf
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\bin\Debug\KayanYazı.exe.config
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\bin\Debug\KayanYazı.exe
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\bin\Debug\KayanYazı.pdb
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\bin\Debug\EntityFramework.dll
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\bin\Debug\EntityFramework.xml
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı.csprojAssemblyReference.cache
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\ViewModels\ValidationResourceDictionary.baml
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\MainWindow.g.cs
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\Views\KategoriKaydıPage.g.cs
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\Views\KayanYazıPage.g.cs
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\Views\ListelePage.g.cs
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\Views\MetinKaydıPage.g.cs
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\App.g.cs
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı_Content.g.cs
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.cache
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.lref
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\MainWindow.baml
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\Views\KategoriKaydıPage.baml
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\Views\KayanYazıPage.baml
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\Views\ListelePage.baml
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\Views\MetinKaydıPage.baml
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı.g.resources
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı.Properties.Resources.resources
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı.csproj.GenerateResource.cache
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı.csproj.CoreCompileInputs.cache
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı.csproj.CopyComplete
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı.exe
+D:\Users\Erman\Desktop\KayanYazı\KayanYazı\obj\Debug\KayanYazı.pdb
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\bin\Debug\Db.mdf
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\bin\Debug\Db_log.ldf
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\bin\Debug\KayanYazı.exe.config
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\bin\Debug\KayanYazı.exe
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\bin\Debug\KayanYazı.pdb
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\bin\Debug\EntityFramework.dll
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\bin\Debug\EntityFramework.xml
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\ViewModels\ValidationResourceDictionary.baml
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\MainWindow.g.cs
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\Views\KategoriKaydıPage.g.cs
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\Views\KayanYazıPage.g.cs
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\Views\ListelePage.g.cs
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\Views\MetinKaydıPage.g.cs
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\App.g.cs
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\KayanYazı_Content.g.cs
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.cache
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.lref
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\MainWindow.baml
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\Views\KategoriKaydıPage.baml
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\Views\KayanYazıPage.baml
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\Views\ListelePage.baml
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\Views\MetinKaydıPage.baml
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\KayanYazı.g.resources
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\KayanYazı.Properties.Resources.resources
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\KayanYazı.csproj.GenerateResource.Cache
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\KayanYazı.csproj.CoreCompileInputs.cache
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\KayanYazı.exe
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\KayanYazı.pdb
+D:\Sinav\1521- Muhammed Enes ÇAPKIN\KayanYazı\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\Db.mdf
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\Db_log.ldf
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\KayanYazı.exe.config
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\KayanYazı.exe
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\KayanYazı.pdb
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.dll
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.SqlServer.dll
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.xml
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.SqlServer.xml
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csprojResolveAssemblyReference.cache
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\ViewModels\ValidationResourceDictionary.baml
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\MainWindow.g.cs
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KategoriKaydıPage.g.cs
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KayanYazıPage.g.cs
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\ListelePage.g.cs
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\MetinKaydıPage.g.cs
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\App.g.cs
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı_Content.g.cs
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.cache
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.lref
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\MainWindow.baml
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KategoriKaydıPage.baml
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KayanYazıPage.baml
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\ListelePage.baml
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\MetinKaydıPage.baml
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.g.resources
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.Properties.Resources.resources
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.GenerateResource.Cache
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.exe
+D:\Öğrenci Dosyaları\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.pdb
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\Db.mdf
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\Db_log.ldf
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\KayanYazı.exe.config
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\KayanYazı.exe
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\KayanYazı.pdb
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.dll
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.SqlServer.dll
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.xml
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.SqlServer.xml
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csprojAssemblyReference.cache
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\ViewModels\ValidationResourceDictionary.baml
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\MainWindow.g.cs
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KategoriKaydıPage.g.cs
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KayanYazıPage.g.cs
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\ListelePage.g.cs
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\MetinKaydıPage.g.cs
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\App.g.cs
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı_Content.g.cs
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.cache
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.lref
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\MainWindow.baml
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KategoriKaydıPage.baml
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KayanYazıPage.baml
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\ListelePage.baml
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\MetinKaydıPage.baml
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.g.resources
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.Properties.Resources.resources
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.GenerateResource.cache
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.CoreCompileInputs.cache
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.CopyComplete
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.exe
+D:\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.pdb
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\Db.mdf
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\Db_log.ldf
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\KayanYazı.exe.config
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\KayanYazı.exe
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\KayanYazı.pdb
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.dll
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.SqlServer.dll
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.xml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\bin\Debug\EntityFramework.SqlServer.xml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.AssemblyReference.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.SuggestedBindingRedirects.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\ViewModels\ValidationResourceDictionary.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\MainWindow.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KategoriKaydıPage.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KayanYazıPage.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\ListelePage.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\MetinKaydıPage.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\App.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı_Content.g.cs
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı_MarkupCompile.lref
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\MainWindow.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KategoriKaydıPage.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\KayanYazıPage.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\ListelePage.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\Views\MetinKaydıPage.baml
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.g.resources
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.Properties.Resources.resources
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.GenerateResource.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.CoreCompileInputs.cache
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.csproj.CopyComplete
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.exe
+D:\enes\dersler\Lise\11.sınıf\uygulama\2.dönem\2.dönem Performans Ödevi\1521-Muhammed Enes Çapkın\KayanYazı\obj\Debug\KayanYazı.pdb
